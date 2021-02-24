@@ -1,2 +1,2 @@
 # PTT-Dcard-Crawler
-Extract needed data from PTT and Dcard, the load the collected data into postgresql database.
+Extract needed data (titles and href of the articles) from specific forums in PTT and Dcard, then load the collected data into postgresql database.
